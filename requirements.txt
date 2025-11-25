@@ -1,0 +1,12 @@
+streamlit
+transformers
+sentence-transformers
+torch
+chromadb
+faiss-cpu
+numpy
+pandas
+scikit-learn
+openai
+tqdm
+pdfplumber

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "prod_a",
+    "name": "MyPhone X1",
+    "type": "product",
+    "description": "MyPhone X1 is a mid-range smartphone with 6.4-inch OLED display, 6GB RAM, 128GB storage, 48MP main camera, 4000mAh battery, and fast charging."
+  },
+  {
+    "id": "comp_1",
+    "name": "Competitor OnePhone Z",
+    "type": "competitor",
+    "description": "OnePhone Z features 6.7-inch AMOLED, 8GB RAM, 256GB storage, 108MP camera, 5000mAh battery, 65W fast charging, and IP68 water resistance."
+  },
+  {
+    "id": "comp_2",
+    "name": "Compete Pro",
+    "type": "competitor",
+    "description": "Compete Pro offers 6.5-inch display, 8GB RAM, 128GB storage, 64MP camera, 4500mAh battery, wireless charging, and premium build quality."
+  }
+]
